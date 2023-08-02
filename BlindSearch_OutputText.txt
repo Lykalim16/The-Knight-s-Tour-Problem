@@ -1,0 +1,28 @@
+Initial Position: 
+
+ 	a 	b 	c 	d 	e 	f 	g 	h 
+
+8|	XX	XX	XX	XX	XX	XX	XX	XX
+7|	XX	XX	XX	XX	XX	XX	XX	XX
+6|	XX	XX	XX	XX	XX	XX	XX	XX
+5|	XX	XX	XX	XX	XX	XX	XX	XX
+4|	XX	XX	XX	0	XX	XX	XX	XX
+3|	XX	XX	XX	XX	XX	XX	XX	XX
+2|	XX	XX	XX	XX	XX	XX	XX	XX
+1|	XX	XX	XX	XX	XX	XX	XX	XX
+
+Board is fully occupied
+Final Position:
+
+ 	a 	b 	c 	d 	e 	f 	g 	h 
+
+8|	63	20	15	6	31	22	59	40
+7|	14	5	62	21	60	41	24	33
+6|	19	16	7	30	23	32	39	58
+5|	4	13	18	61	42	25	34	49
+4|	17	8	29	0	53	48	57	38
+3|	12	3	10	43	26	35	50	47
+2|	9	28	1	54	45	52	37	56
+1|	2	11	44	27	36	55	46	51
+
+Runtime: 8099990 milliseconds
