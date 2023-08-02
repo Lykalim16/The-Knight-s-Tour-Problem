@@ -1,7 +1,9 @@
 # The-Knight-s-Tour-Problem
 
 CMSC 162 - Artificial Intelligence
+
 Authors: LIM, Lyka Raquel C. and Oabel, Cliff
+
 Presented to Mr. Lee Javellana
 
 Objective: To experiment with blind and heuristic search algorithms on the Knight’s tour problem.
